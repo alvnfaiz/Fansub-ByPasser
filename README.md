@@ -1,5 +1,5 @@
-# Samehada-ByPasser
-Script untuk ByPass link download Samehadaku
+# HideriPass
+ByPass Shortlink aplikasi Premium URL Shortener, yag dipakai beberapa situs seperti Fansub Samehadaku, Oploverz, Nekopoi dan AWSubs.
 
 ## Supported Web/Fansub
 * [SAMEHADAKU](https://www.samehadaku.net)
