@@ -3,7 +3,7 @@ ByPass Shortlink aplikasi Premium URL Shortener, yag dipakai beberapa situs sepe
 
 Installasi
 ----------
-[Cara Menginstall] (https://indocoder.tech/bypass-download-samehadaku-nekopoi-dan-oploverz-tanpa-melewati-safelink)
+[Cara Menginstall](https://indocoder.tech/bypass-download-samehadaku-nekopoi-dan-oploverz-tanpa-melewati-safelink)
 
 ## Supported Web/Fansub
 * [SAMEHADAKU](https://www.samehadaku.net) V 1.0.0
