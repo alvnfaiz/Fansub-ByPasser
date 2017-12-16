@@ -1,11 +1,20 @@
 # HideriPass
 ByPass Shortlink aplikasi Premium URL Shortener, yag dipakai beberapa situs seperti Fansub Samehadaku, Oploverz, Nekopoi dan AWSubs.
 
+Installasi
+----------
+[Cara Menginstall] (https://indocoder.tech/bypass-download-samehadaku-nekopoi-dan-oploverz-tanpa-melewati-safelink)
+
 ## Supported Web/Fansub
-* [SAMEHADAKU](https://www.samehadaku.net)
-* [NekoPoi](http://nekopoi.band)
-* [OPLoverz](https://oploverz.in)
-* [AWSubs]()
+* [SAMEHADAKU](https://www.samehadaku.net) V 1.0.0
+* [NekoPoi](http://nekopoi.band) V 1.1.0
+* [OPLoverz](https://oploverz.in) V 1.1.0
+* [AWSubs](https://awsubs.co) V 1.1.0
+* [AniToki](http://anitoki.web.id) V 1.5.0
+* [AniBatch](https://anibatch.me) V 1.5.0
+* [Meguminime](http://meguminime.com) V 1.5.0
+* [AnimeSave](http://animesave.com) V 1.5.0
+* [WibuDesu](http;//wibudesu.com) V 1.5.0
 
 ## Google Chrome/UC Browser dan Firefox Extension yang mendukung
 Chrome/UC Browser 32+
