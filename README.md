@@ -14,7 +14,7 @@ Installasi
 * [AniBatch](https://anibatch.me) V 1.5.0
 * [Meguminime](http://meguminime.com) V 1.5.0
 * [AnimeSave](http://animesave.com) V 1.5.0
-* [WibuDesu](http;//wibudesu.com) V 1.5.0
+* [WibuDesu](http://wibudesu.com) V 1.5.0
 
 ## Google Chrome/UC Browser dan Firefox Extension yang mendukung
 Chrome/UC Browser 32+
