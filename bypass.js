@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name           HideriPass
-// @namespace      HideriPass - Dimana Safelink takut kepada Hideri
+// @name           kyuroPass
+// @namespace      kyuroPass - Dimana Safelink takut kepada Hideri
 // @description    Download di FansubBesar tanpa melewati Iklan || By HideriNime
 // @copyright      2017+, HideriNime
 // @version        2.0.0
